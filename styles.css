@@ -1,4 +1,8 @@
+* {
+  box-sizing: border-box;
+}
 
+body{
 	margin: 0;
 	padding: 0;
   font-family: "Comic Sans MS", cursive, sans-serif;
@@ -99,4 +103,4 @@ h1 {
 
 
 ----------------------------
-http://mariah-sunil-alexiose.github.io
+https://mariah-sunil-alexiose.github.io
